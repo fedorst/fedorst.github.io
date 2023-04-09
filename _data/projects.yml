@@ -1,16 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: streamlit-reading-herodotus
+  # role:
+  duration: 2023
+  url: "https://github.com/fedorst/streamlit-reading-herodotus"
+  description: A Streamlit app to read nlp-tagged Herodotus' Histories, alongside an english translation.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Estonian parliamentarian voting behavior similarity
+  #role:
+  duration: 2023
+  url: "https://github.com/fedorst/parliament-vote-adjacency-viz"
+  description: An interactive toy to see how similarly various Estonian MPs voted and what were the particular matching votes. Built with SolidJS.
+
+- project: Human brain activity visualization
+  #role:
+  duration: 2022
+  url: "https://github.com/fedorst/brain-visualization-utcg2020"
+  description: An interactive visualization of deep intracranial probe brain recordings across 100 human subjects.
